@@ -1,7 +1,3 @@
-<!--
-# Ambiente_Desenvolvimento_Java
-Trilha de Back-end Java do Santander Bootcamp 2024 - Módulo Dominando a Linguagem de Programação Java - Curso Ambiente de Desenvolvimento Java.
--->
 
 ###  Seja bem-vindo!!! Esse é o meu repositorio de projetos e códigos no programa Santander Bootcamp 2024.
 Este repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024. 
