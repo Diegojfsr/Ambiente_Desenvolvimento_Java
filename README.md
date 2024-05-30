@@ -10,16 +10,17 @@ Este repositório criado para documentar todo o meu passo a passo, projetos e co
 
 ### 🚦 Confira a grade completa
 
-1. Plataformas e configuração do ambiente  
-☑️ [Introdução a IDEs]()  
-☑️ [Configuração do Ambiente]() 
+### Plataformas e configuração do ambiente    
+> ☑️ [Introdução a IDEs]()  
+> ☑️ [Configuração do Ambiente]() 
 
-2. Escolha sua IDE  
-☑️  [Instalando o VSCode]()  
-☑️  [Instalando o Eclipse]()  
-☑️  [Instalando o IntelliJ]()  
-☑️  [Integrando o VSCode com o Github]()  
-☑️  [Certifique seu conhecimento]()  
+### Escolha sua IDE  
+> ☑️  [Instalando o VSCode]()  
+> ☑️  [Instalando o Eclipse]()  
+> ☑️  [Instalando o IntelliJ]()  
+> ☑️  [Integrando o VSCode com o Github]()  
+> ☑️  [Certifique seu conhecimento]()  
+
 
 ### 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
